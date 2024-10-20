@@ -1,0 +1,22 @@
+# SA Electronics
+
+SA Electronics is an e-commerce web application where users can browse and purchase electronic products. The application features a user-friendly interface, a shopping cart, and a simple login page.
+
+## Features
+
+- Browse a list of products
+- Add products to the shopping cart
+- Remove products from the cart
+- Proceed to checkout with a prompt for shipping details
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/introspectivepen/sa-electronics.git
